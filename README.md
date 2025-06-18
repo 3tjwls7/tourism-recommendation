@@ -5,8 +5,9 @@ VSC
 
 ### 서버 실행 방법
 1. pip install -r requirements.txt
-2. cd backend
-3. python server.py
+2. pip install flask-cors
+3. cd backend
+4. python server.py
 
 ### 프론트엔드 실행 방법
 1. cd frontend
